@@ -1,0 +1,112 @@
+[
+    {
+        "id":1,
+        "name":"Story Books",
+        "title":
+        "Whispers of the Forgotten: A Journey Through Heaven",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":2,
+        "name":"Fiction",
+        "title":
+        "Dive into a world where imagination knows no bounds",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":3,
+        "name":"Mystery",
+        "title":
+        "Every secret has a clue waiting to be unraveled",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":4,
+        "name":"Science Fiction",
+        "title":
+        "Explore the frontiers of technology and beyond",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":5,
+        "name":"Fantasy",
+        "title":
+        "Embark on epic quests where magic meets destiny",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":6,
+        "name":"Romance",
+        "title":
+        "Discover the stories where every heartbeat tells a tale",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":7,
+        "name":"Biography",
+        "title":
+        "Walk in the shoes of the giants who shaped our world",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":8,
+        "name":"Self-Help",
+        "title":
+        "Empower yourself one page at a time",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":9,
+        "name":"Children's",
+        "title":
+        "Where young minds begin big adventures",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":10,
+        "name":"Non-Fiction",
+        "title":
+        "Uncover the truths that shape our reality",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    },
+    {
+        "id":11,
+        "name":"Comedy",
+        "title":
+        "Laugh out loud as every page turns the ordinary into fun",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713874452~exp=1713878052~hmac=c14317719e191d5fc48efab8f1c6de5a453160b47f3b7cb17bd0fb0e894ad453&w=740"
+        
+    }
+]
